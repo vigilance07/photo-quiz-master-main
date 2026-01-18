@@ -1,0 +1,10 @@
+project_id = "kyrfswernianbkydjxji"
+
+[functions.extract-quiz-from-image]
+verify_jwt = false
+
+[functions.extract-book-from-image]
+verify_jwt = false
+
+[functions.extract-quiz-from-image]
+verify_jwt = false
